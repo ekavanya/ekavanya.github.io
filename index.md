@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### List
 
-[File .ipynb Kosong](ekavanya.github.io/Untitled.ipynb)
+[Download file .ipynb kosong](ekavanya.github.io/Untitled.ipynb)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
