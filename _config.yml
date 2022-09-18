@@ -1,10 +1,10 @@
-title: Vanya # your name (or website title) here
+title: Ekavanya U. Widodo # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  Undergraduate Student
   Second description 
-  <br><br>
+  -
   <a href="https://www.linkedin.com/in/ekavanya-utami/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
