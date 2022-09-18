@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/Untitled.ipynb)
+[File .ipynb Kosong](ekavanya.github.io/Untitled.ipynb)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
