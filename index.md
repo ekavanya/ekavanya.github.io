@@ -7,7 +7,7 @@
 [Download file .ipynb kosong](ekavanya.github.io/Untitled.ipynb)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[COVID 19 Dashboard](https://datastudio.google.com/s/gnLBxnhlqdo)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
